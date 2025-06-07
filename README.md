@@ -1,6 +1,4 @@
-### **Hi there** 👋
-
-# 👋 **About Me**
+## **About Me**
 Experienced Senior iOS Engineer with 12+ years of expertise in iOS development, team leadership, and scalable
 infrastructure. Adept at mentoring engineers, fostering inclusive environments, and driving the development of
 high-performing applications. Strong technical leadership in Objective-C, Swift, and software architecture, ensuring
