@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**bafsheh/bafsheh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Senior iOS Software Engineer
 
-Here are some ideas to get you started:
+## 👋 About Me
+Experienced Senior iOS Engineer with 12+ years of expertise in iOS development, team leadership, and scalable
+infrastructure. Adept at mentoring engineers, fostering inclusive environments, and driving the development of
+high-performing applications. Strong technical leadership in Objective-C, Swift, and software architecture, ensuring
+scalability, maintainability, and performance optimization. Passionate about building innovative, AI-powered applications,
+leading teams, and improving software development processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Swift, Objective-C, Python, Ruby
+- **Platforms:** iOS (iPhone, iPad, MacOS)
+- **Specialties:** Native app development, device-based AI, game development (Arcade, FPS genres)
+
+## 🎯 Interests
+- AI on the device (on-device machine learning and intelligence)
+- Developing Arcade and FPS games
+- Exploring new trends in mobile and AI technologies
+
+## 🚀 Current Focus
+- Building high-performance iOS applications
+- Experimenting with on-device AI capabilities
+- Designing and developing engaging arcade and FPS games
+
+## 📫 Contact
+Feel free to reach out for collaborations or interesting opportunities related to iOS, AI, or game development!
