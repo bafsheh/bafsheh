@@ -12,7 +12,6 @@ leading teams, and improving software development processes.
 ## 🛠️ Skills
 - **Languages:** Swift, Objective-C, Python, Ruby
 - **Platforms:** iOS (iPhone, iPad, MacOS)
-- **Specialties:** Native app development, device-based AI, game development (Arcade, FPS genres)
 
 ## 🎯 Interests
 - AI on the device (on-device machine learning and intelligence)
