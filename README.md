@@ -13,15 +13,5 @@ leading teams, and improving software development processes.
 - **Languages:** Swift, Objective-C, Python, Ruby
 - **Platforms:** iOS (iPhone, iPad, MacOS)
 
-## 🎯 Interests
-- AI on the device (on-device machine learning and intelligence)
-- Developing Arcade and FPS games
-- Exploring new trends in mobile and AI technologies
-
-## 🚀 Current Focus
-- Building high-performance iOS applications
-- Experimenting with on-device AI capabilities
-- Designing and developing engaging arcade and FPS games
-
 ## 📫 Contact
 Feel free to reach out for collaborations or interesting opportunities related to iOS, AI, or game development!
